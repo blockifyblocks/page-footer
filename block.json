@@ -1,0 +1,13 @@
+{
+  "name": "page-footer",
+  "description": "A full-width site footer.",
+  "authors": [
+    "Blockify <info@blockify.co> (http://blockify.co/)"
+  ],
+  "defaults": {
+    "text": "© Copyright 2015 Website Name"
+  },
+  "version": "1.0.0",
+  "main": "page-footer.php",
+  "license": "MIT"
+}
